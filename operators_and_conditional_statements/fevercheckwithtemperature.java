@@ -1,4 +1,4 @@
-package day4;
+package operators_and_conditional_statements;
 
 public class fevercheckwithtemperature {
     public static void main(String[] args) { 

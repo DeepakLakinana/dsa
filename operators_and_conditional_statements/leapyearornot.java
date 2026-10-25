@@ -1,4 +1,5 @@
-package day4;
+package operators_and_conditional_statements;
+
 import java.util.*;
 public class leapyearornot {
         public static void main(String args[]){
